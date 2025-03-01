@@ -39,4 +39,10 @@ A simple **Android app** to track expenses, set budgets, and visualize spending 
 ✅ **Dependency Injection:** ViewModelProvider Factory  
 ✅ **Coroutines & LiveData** for async operations  
 
+![launch screen](Screenshot_2025-03-01-16-15-07-22_24ae075b7adda58fd802bc9cddcee0bd.jpg)
+![Monthly Expense](Screenshot_2025-03-01-16-04-39-24_24ae075b7adda58fd802bc9cddcee0bd.jpg)
+![Add expense](Screenshot_2025-03-01-16-30-22-35_24ae075b7adda58fd802bc9cddcee0bd.jpg)
+![Transactions](Screenshot_2025-03-01-16-05-34-44_24ae075b7adda58fd802bc9cddcee0bd.jpg)
+
+
 
